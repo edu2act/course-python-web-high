@@ -13,8 +13,8 @@
 | 第2章  | [Flask框架简介](./ch02/2-flask-intro.ipynb)                 |
 | 第3章  | [模板](./ch03/3-jinja2-templates.ipynb)                     |
 | 第4章  | [Web表单处理](./ch04/4-web-forms.ipynb)                     |
-| 第5章  | [Flask命令行接口](./ch05/5-peewee-orm.ipynb)                |
-| 第6章  | [使用ORM操作数据库](./ch06/6-cli-interface.ipynb)           |
+| 第5章  | [使用ORM操作数据库](./ch05/5-peewee-orm.ipynb)              |
+| 第6章  | [Flask命令行接口](./ch06/6-cli-interface.ipynb)             |
 | 第7章  | [Flask大型应用程序结构](./ch07/7-large-app-structure.ipynb) |
 | 第8章  | [用户认证](./ch08/8-user-authentication.ipynb)              |
 | 第9章  | [用户角色](./ch09/9-user-roles.ipynb)                       |
